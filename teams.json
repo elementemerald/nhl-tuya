@@ -1,0 +1,134 @@
+[
+    {
+        "id": 24,
+        "teamCity": "Anaheim",
+        "teamName": "Anaheim Ducks",
+        "teamShort": "Ducks",
+        "primaryColor": "F47A38",
+        "secondaryColor": "B09862"
+    },
+    {
+        "id": 53,
+        "teamCity": "Arizona",
+        "teamName": "Arizona Coyotes",
+        "teamShort": "Coyotes",
+        "primaryColor": "8C2633",
+        "secondaryColor": "E2D6B5"
+    },
+    {
+        "id": 6,
+        "teamCity": "Boston",
+        "teamName": "Boston Bruins",
+        "teamShort": "Bruins",
+        "primaryColor": "FFB81C",
+        "secondaryColor": "000000"
+    },
+    {
+        "id": 7,
+        "teamCity": "Buffalo",
+        "teamName": "Buffalo Sabres",
+        "teamShort": "Sabres",
+        "primaryColor": "002654",
+        "secondaryColor": "FCB514"
+    },
+    {
+        "id": 20,
+        "teamCity": "Calgary",
+        "teamName": "Calgary Flames",
+        "teamShort": "Flames",
+        "primaryColor": "C8102E",
+        "secondaryColor": "F1BE48"
+    },
+    {
+        "id": 12,
+        "teamCity": "Carolina",
+        "teamName": "Carolina Hurricanes",
+        "teamShort": "Hurricanes",
+        "primaryColor": "CC0000",
+        "secondaryColor": "000000"
+    },
+    {
+        "id": 16,
+        "teamCity": "Chicago",
+        "teamName": "Chicago Blackhawks",
+        "teamShort": "Blackhawks",
+        "primaryColor": "CF0A2C",
+        "secondaryColor": "00833E"
+    },
+    {
+        "id": 21,
+        "teamCity": "Colorado",
+        "teamName": "Colorado Avalanche",
+        "teamShort": "Avalanche",
+        "primaryColor": "6F263D",
+        "secondaryColor": "236192"
+    },
+    {
+        "id": 29,
+        "teamCity": "Columbus",
+        "teamName": "Columbus Blue Jackets",
+        "teamShort": "Blue Jackets",
+        "primaryColor": "002654",
+        "secondaryColor": "CE1126"
+    },
+    {
+        "id": 25,
+        "teamCity": "Dallas",
+        "teamName": "Dallas Stars",
+        "teamShort": "Stars",
+        "primaryColor": "006847",
+        "secondaryColor": "8F8F8C"
+    },
+    {
+        "id": 17,
+        "teamCity": "Detroit",
+        "teamName": "Detroit Red Wings",
+        "teamShort": "Red Wings",
+        "primaryColor": "CE1126",
+        "secondaryColor": "FFFFFF"
+    },
+    {
+        "id": 22,
+        "teamCity": "Edmonton",
+        "teamName": "Edmonton Oilers",
+        "teamShort": "Oilers",
+        "primaryColor": "041E42",
+        "secondaryColor": "FF4C00"
+    },
+    {
+        "id": 13,
+        "teamCity": "Florida",
+        "teamName": "Florida Panthers",
+        "teamShort": "Panthers",
+        "primaryColor": "041E42",
+        "secondaryColor": "C8102E"
+    },
+    {
+        "id": 26,
+        "teamCity": "Los Angeles",
+        "teamName": "Los Angeles Kings",
+        "teamShort": "Kings",
+        "primaryColor": "111111",
+        "secondaryColor": "A2AAAD"
+    },
+    {
+        "id": 30,
+        "teamCity": "Minnesota",
+        "teamName": "Minnesota Wild",
+        "teamShort": "Wild",
+        "primaryColor": "A6192E",
+        "secondaryColor": "154734"
+    },
+    {
+        "id": 8,
+        "teamCity": "Montreal",
+        "teamName": "Montreal Canadiens",
+        "teamShort": "Canadiens",
+        "primaryColor": "AF1E2D",
+        "secondaryColor": "192168"
+    },
+    {
+        "id": 18,
+        "teamCity": "Nashville"
+    }
+]
