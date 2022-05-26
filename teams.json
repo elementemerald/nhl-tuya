@@ -129,6 +129,34 @@
     },
     {
         "id": 18,
-        "teamCity": "Nashville"
+        "teamCity": "Nashville",
+        "teamName": "Nashville Predators",
+        "teamShort": "Predators",
+        "primaryColor": "FFB81C",
+        "secondaryColor": "041E42"
+    },
+    {
+        "id": 1,
+        "teamCity": "New Jersey",
+        "teamName": "New Jersey Devils",
+        "teamShort": "Devils",
+        "primaryColor": "CE1126",
+        "secondaryColor": "000000"
+    },
+    {
+        "id": 2,
+        "teamCity": "New York",
+        "teamName": "New York Islanders",
+        "teamShort": "Islanders",
+        "primaryColor": "00539B",
+        "secondaryColor": "F47D30"
+    },
+    {
+        "id": 3,
+        "teamCity": "New York",
+        "teamName": "New York Rangers",
+        "teamShort": "Rangers",
+        "primaryColor": "0038A8",
+        "secondaryColor": "CE1126"
     }
 ]
