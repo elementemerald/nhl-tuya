@@ -1,75 +1,102 @@
 [
     {
-        "id": 24,
-        "teamCity": "Anaheim",
-        "teamName": "Anaheim Ducks",
-        "teamShort": "Ducks",
-        "primaryColor": "F47A38",
-        "secondaryColor": "B09862"
+        "name": "ANA",
+        "value": {
+            "id": 24,
+            "teamCity": "Anaheim",
+            "teamName": "Anaheim Ducks",
+            "teamShort": "Ducks",
+            "primaryColor": "F47A38",
+            "secondaryColor": "B09862"
+        }
     },
     {
-        "id": 53,
-        "teamCity": "Arizona",
-        "teamName": "Arizona Coyotes",
-        "teamShort": "Coyotes",
-        "primaryColor": "8C2633",
-        "secondaryColor": "E2D6B5"
+        "name": "ARI",
+        "value": {
+            "id": 53,
+            "teamCity": "Arizona",
+            "teamName": "Arizona Coyotes",
+            "teamShort": "Coyotes",
+            "primaryColor": "8C2633",
+            "secondaryColor": "E2D6B5"
+        }
     },
     {
-        "id": 6,
-        "teamCity": "Boston",
-        "teamName": "Boston Bruins",
-        "teamShort": "Bruins",
-        "primaryColor": "FFB81C",
-        "secondaryColor": "000000"
+        "name": "BOS",
+        "value": {
+            "id": 6,
+            "teamCity": "Boston",
+            "teamName": "Boston Bruins",
+            "teamShort": "Bruins",
+            "primaryColor": "FFB81C",
+            "secondaryColor": "000000"
+        }
     },
     {
-        "id": 7,
-        "teamCity": "Buffalo",
-        "teamName": "Buffalo Sabres",
-        "teamShort": "Sabres",
-        "primaryColor": "002654",
-        "secondaryColor": "FCB514"
+        "name": "BUF",
+        "value": {
+            "id": 7,
+            "teamCity": "Buffalo",
+            "teamName": "Buffalo Sabres",
+            "teamShort": "Sabres",
+            "primaryColor": "002654",
+            "secondaryColor": "FCB514"
+        }
     },
     {
-        "id": 20,
-        "teamCity": "Calgary",
-        "teamName": "Calgary Flames",
-        "teamShort": "Flames",
-        "primaryColor": "C8102E",
-        "secondaryColor": "F1BE48"
+        "name": "CGY",
+        "value": {
+            "id": 20,
+            "teamCity": "Calgary",
+            "teamName": "Calgary Flames",
+            "teamShort": "Flames",
+            "primaryColor": "C8102E",
+            "secondaryColor": "F1BE48"
+        }
     },
     {
-        "id": 12,
-        "teamCity": "Carolina",
-        "teamName": "Carolina Hurricanes",
-        "teamShort": "Hurricanes",
-        "primaryColor": "CC0000",
-        "secondaryColor": "000000"
+        "name": "CAR",
+        "value": {
+            "id": 12,
+            "teamCity": "Carolina",
+            "teamName": "Carolina Hurricanes",
+            "teamShort": "Hurricanes",
+            "primaryColor": "CC0000",
+            "secondaryColor": "000000"
+        }
     },
     {
-        "id": 16,
-        "teamCity": "Chicago",
-        "teamName": "Chicago Blackhawks",
-        "teamShort": "Blackhawks",
-        "primaryColor": "CF0A2C",
-        "secondaryColor": "00833E"
+        "name": "CHI",
+        "value": {
+            "id": 16,
+            "teamCity": "Chicago",
+            "teamName": "Chicago Blackhawks",
+            "teamShort": "Blackhawks",
+            "primaryColor": "CF0A2C",
+            "secondaryColor": "00833E"
+        }
     },
     {
-        "id": 21,
-        "teamCity": "Colorado",
-        "teamName": "Colorado Avalanche",
-        "teamShort": "Avalanche",
-        "primaryColor": "6F263D",
-        "secondaryColor": "236192"
+        "name": "COL",
+        "value": {
+            "id": 21,
+            "teamCity": "Colorado",
+            "teamName": "Colorado Avalanche",
+            "teamShort": "Avalanche",
+            "primaryColor": "6F263D",
+            "secondaryColor": "236192"
+        }
     },
     {
-        "id": 29,
-        "teamCity": "Columbus",
-        "teamName": "Columbus Blue Jackets",
-        "teamShort": "Blue Jackets",
-        "primaryColor": "002654",
-        "secondaryColor": "CE1126"
+        "name": "CBJ",
+        "value": {
+            "id": 29,
+            "teamCity": "Columbus",
+            "teamName": "Columbus Blue Jackets",
+            "teamShort": "Blue Jackets",
+            "primaryColor": "002654",
+            "secondaryColor": "CE1126"
+        }
     },
     {
         "id": 25,
@@ -88,12 +115,15 @@
         "secondaryColor": "FFFFFF"
     },
     {
-        "id": 22,
-        "teamCity": "Edmonton",
-        "teamName": "Edmonton Oilers",
-        "teamShort": "Oilers",
-        "primaryColor": "041E42",
-        "secondaryColor": "FF4C00"
+        "name": "EDM",
+        "value": {
+            "id": 22,
+            "teamCity": "Edmonton",
+            "teamName": "Edmonton Oilers",
+            "teamShort": "Oilers",
+            "primaryColor": "041E42",
+            "secondaryColor": "FF4C00"
+        }
     },
     {
         "id": 13,
