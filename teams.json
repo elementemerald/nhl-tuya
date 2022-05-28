@@ -99,20 +99,26 @@
         }
     },
     {
-        "id": 25,
-        "teamCity": "Dallas",
-        "teamName": "Dallas Stars",
-        "teamShort": "Stars",
-        "primaryColor": "006847",
-        "secondaryColor": "8F8F8C"
+        "name": "DAL",
+        "value": {
+            "id": 25,
+            "teamCity": "Dallas",
+            "teamName": "Dallas Stars",
+            "teamShort": "Stars",
+            "primaryColor": "006847",
+            "secondaryColor": "8F8F8C"
+        }
     },
     {
-        "id": 17,
-        "teamCity": "Detroit",
-        "teamName": "Detroit Red Wings",
-        "teamShort": "Red Wings",
-        "primaryColor": "CE1126",
-        "secondaryColor": "FFFFFF"
+        "name": "DET",
+        "value": {
+            "id": 17,
+            "teamCity": "Detroit",
+            "teamName": "Detroit Red Wings",
+            "teamShort": "Red Wings",
+            "primaryColor": "CE1126",
+            "secondaryColor": "FFFFFF"
+        }
     },
     {
         "name": "EDM",
@@ -126,67 +132,146 @@
         }
     },
     {
-        "id": 13,
-        "teamCity": "Florida",
-        "teamName": "Florida Panthers",
-        "teamShort": "Panthers",
-        "primaryColor": "041E42",
-        "secondaryColor": "C8102E"
+        "name": "FLA",
+        "value": {
+            "id": 13,
+            "teamCity": "Florida",
+            "teamName": "Florida Panthers",
+            "teamShort": "Panthers",
+            "primaryColor": "041E42",
+            "secondaryColor": "C8102E"
+        }
     },
     {
-        "id": 26,
-        "teamCity": "Los Angeles",
-        "teamName": "Los Angeles Kings",
-        "teamShort": "Kings",
-        "primaryColor": "111111",
-        "secondaryColor": "A2AAAD"
+        "name": "LAK",
+        "value": {
+            "id": 26,
+            "teamCity": "Los Angeles",
+            "teamName": "Los Angeles Kings",
+            "teamShort": "Kings",
+            "primaryColor": "111111",
+            "secondaryColor": "A2AAAD"
+        }
     },
     {
-        "id": 30,
-        "teamCity": "Minnesota",
-        "teamName": "Minnesota Wild",
-        "teamShort": "Wild",
-        "primaryColor": "A6192E",
-        "secondaryColor": "154734"
+        "name": "MIN",
+        "value": {
+            "id": 30,
+            "teamCity": "Minnesota",
+            "teamName": "Minnesota Wild",
+            "teamShort": "Wild",
+            "primaryColor": "A6192E",
+            "secondaryColor": "154734"
+        }
     },
     {
-        "id": 8,
-        "teamCity": "Montreal",
-        "teamName": "Montreal Canadiens",
-        "teamShort": "Canadiens",
-        "primaryColor": "AF1E2D",
-        "secondaryColor": "192168"
+        "name": "MTL",
+        "value": {
+            "id": 8,
+            "teamCity": "Montreal",
+            "teamName": "Montreal Canadiens",
+            "teamShort": "Canadiens",
+            "primaryColor": "AF1E2D",
+            "secondaryColor": "192168"
+        }
     },
     {
-        "id": 18,
-        "teamCity": "Nashville",
-        "teamName": "Nashville Predators",
-        "teamShort": "Predators",
-        "primaryColor": "FFB81C",
-        "secondaryColor": "041E42"
+        "name": "NSH",
+        "value": {
+            "id": 18,
+            "teamCity": "Nashville",
+            "teamName": "Nashville Predators",
+            "teamShort": "Predators",
+            "primaryColor": "FFB81C",
+            "secondaryColor": "041E42"
+        }
     },
     {
-        "id": 1,
-        "teamCity": "New Jersey",
-        "teamName": "New Jersey Devils",
-        "teamShort": "Devils",
-        "primaryColor": "CE1126",
-        "secondaryColor": "000000"
+        "name": "NJD",
+        "value": {
+            "id": 1,
+            "teamCity": "New Jersey",
+            "teamName": "New Jersey Devils",
+            "teamShort": "Devils",
+            "primaryColor": "CE1126",
+            "secondaryColor": "000000"
+        }
     },
     {
-        "id": 2,
-        "teamCity": "New York",
-        "teamName": "New York Islanders",
-        "teamShort": "Islanders",
-        "primaryColor": "00539B",
-        "secondaryColor": "F47D30"
+        "name": "NYI",
+        "value": {
+            "id": 2,
+            "teamCity": "New York",
+            "teamName": "New York Islanders",
+            "teamShort": "Islanders",
+            "primaryColor": "00539B",
+            "secondaryColor": "F47D30"
+        }
     },
     {
-        "id": 3,
-        "teamCity": "New York",
-        "teamName": "New York Rangers",
-        "teamShort": "Rangers",
-        "primaryColor": "0038A8",
-        "secondaryColor": "CE1126"
+        "name": "NYR",
+        "value": {
+            "id": 3,
+            "teamCity": "New York",
+            "teamName": "New York Rangers",
+            "teamShort": "Rangers",
+            "primaryColor": "0038A8",
+            "secondaryColor": "CE1126"
+        }
+    },
+    {
+        "name": "OTT",
+        "value": {
+            "id": 9,
+            "teamCity": "Ottawa",
+            "teamName": "Ottawa Senators",
+            "teamShort": "Senators",
+            "primaryColor": "E31837",
+            "secondaryColor": "C69214"
+        }
+    },
+    {
+        "name": "PHI",
+        "value": {
+            "id": 4,
+            "teamCity": "Philadelphia",
+            "teamName": "Philadelphia Flyers",
+            "teamShort": "Flyers",
+            "primaryColor": "F74902",
+            "secondaryColor": "000000"
+        }
+    },
+    {
+        "name": "PIT",
+        "value": {
+            "id": 5,
+            "teamCity": "Pittsburgh",
+            "teamName": "Pittsburgh Penguins",
+            "teamShort": "Penguins",
+            "primaryColor": "000000",
+            "secondaryColor": "CFC493"
+        }
+    },
+    {
+        "name": "SJS",
+        "value": {
+            "id": 28,
+            "teamCity": "San Jose",
+            "teamName": "San Jose Sharks",
+            "teamShort": "Sharks",
+            "primaryColor": "006D75",
+            "secondaryColor": "EA7200"
+        }
+    },
+    {
+        "name": "SEA",
+        "value": {
+            "id": 55,
+            "teamCity": "Seattle",
+            "teamName": "Seattle Kraken",
+            "teamShort": "Kraken",
+            "primaryColor": "001628",
+            "secondaryColor": "99D9D9"
+        }
     }
 ]
