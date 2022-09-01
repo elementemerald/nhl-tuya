@@ -273,5 +273,82 @@
             "primaryColor": "001628",
             "secondaryColor": "99D9D9"
         }
+    },
+    {
+        "name": "STL",
+        "value": {
+            "id": 19,
+            "teamCity": "St. Louis",
+            "teamName": "St. Louis Blues",
+            "teamShort": "Blues",
+            "primaryColor": "002F87",
+            "secondaryColor": "FCB514"
+        }
+    },
+    {
+        "name": "TBL",
+        "value": {
+            "id": 14,
+            "teamCity": "Tampa",
+            "teamName": "Tampa Bay Lightning",
+            "teamShort": "Lightning",
+            "primaryColor": "002868",
+            "secondaryColor": "FFFFFF"
+        }
+    },
+    {
+        "name": "TOR",
+        "value": {
+            "id": 10,
+            "teamCity": "Toronto",
+            "teamName": "Toronto Maple Leafs",
+            "teamShort": "Leafs",
+            "primaryColor": "00205B",
+            "secondaryColor": "FFFFFF"
+        }
+    },
+    {
+        "name": "VAN",
+        "value": {
+            "id": 23,
+            "teamCity": "Vancouver",
+            "teamName": "Vancouver Canucks",
+            "teamShort": "Canucks",
+            "primaryColor": "00205B",
+            "secondaryColor": "00843D"
+        }
+    },
+    {
+        "name": "VGK",
+        "value": {
+            "id": 54,
+            "teamCity": "Las Vegas",
+            "teamName": "Vegas Golden Knights",
+            "teamShort": "Knights",
+            "primaryColor": "B4975A",
+            "secondaryColor": "333F42"
+        }
+    },
+    {
+        "name": "WSH",
+        "value": {
+            "id": 15,
+            "teamCity": "Washington",
+            "teamName": "Washington Capitals",
+            "teamShort": "Capitals",
+            "primaryColor": "041E42",
+            "secondaryColor": "C8102E"
+        }
+    },
+    {
+        "name": "WPG",
+        "value": {
+            "id": 52,
+            "teamCity": "Winnipeg",
+            "teamName": "Winnipeg Jets",
+            "teamShort": "Jets",
+            "primaryColor": "041E42",
+            "secondaryColor": "004C97"
+        }
     }
 ]
