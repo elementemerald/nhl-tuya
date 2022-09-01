@@ -8,7 +8,7 @@ const tuya = new TuyaClient(
     process.env.TUYA_CLIENT_ID,
     process.env.TUYA_CLIENT_SECRET,
     process.env.TUYA_USER_ID,
-    "USAW"
+    process.env.TUYA_REGION || "USAW"
 );
 
 const inquirer = require("inquirer");
