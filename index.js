@@ -28,7 +28,7 @@ tuya.init().then(() => {
             choices: teams
         }
     ]).then(answers => {
-        new Game(tuya, answers.team);
+        new Game(tuya, answers.team, answers.freeGame);
     });
 }).catch(err => {
     console.error(err);
